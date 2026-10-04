@@ -5,8 +5,6 @@ Due to the volatility and danger of some of the chemicals used in the tests, all
 
 This database will allow the laboratory to organize and easily access information about their employees, tests, clients, and laboratory equipment as well as how those things relate to each other. It will allow the laboratory to determine which materials and fume hoods were used for specific tests through foreign keys and junction tables, which is important from a quality assurance standpoint should a test fail. The laboratory will also be able to compile and streamline existing information into one database that can be easily navigated and accessed by management. 
 
-![Entity-Relationship Diagram](Project ER Diagram.png)
-
 Relational Schema
  
 1. EMPLOYEE (EmployeeID, First, Middle, Last, HireDate, Salary) 
